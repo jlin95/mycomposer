@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "jlin95": {
+    "title": "Sam Lee",
+    "website": "https://github.com/jlin95",
+    "logo": "https://avatars3.githubusercontent.com/u/8469164?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/jlin95",
           "versions": {
             "1.0.0": {
               "simple": {
